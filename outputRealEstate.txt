@@ -1,0 +1,11 @@
+Average price per square meter: 172000.00
+Price of the cheapest property: 5556600
+Average sqm per room of the most expensive property in Budapest: 25.00
+Total price of the properties: 260076600
+Average total price: 26007660.00
+Condominiums not exceeding the average price:
+  CONDOMINIUM | Debrecen | Price per sqm: 120000 | Area: 35 sqm | Rooms: 2 | Total price: 5556600 | Avg sqm per room: 17.50 | Floor: 0 | Insulated: yes
+  CONDOMINIUM | Kisvárda | Price per sqm: 150000 | Area: 50 sqm | Rooms: 2 | Total price: 7500000 | Avg sqm per room: 25.00
+  CONDOMINIUM | Nyíregyháza | Price per sqm: 150000 | Area: 68 sqm | Rooms: 4 | Total price: 11730000 | Avg sqm per room: 17.00
+  CONDOMINIUM | Nyíregyháza | Price per sqm: 170000 | Area: 80 sqm | Rooms: 3 | Total price: 15640000 | Avg sqm per room: 26.67 | Floor: 7 | Insulated: no
+  CONDOMINIUM | Budapest | Price per sqm: 180000 | Area: 70 sqm | Rooms: 3 | Total price: 16380000 | Avg sqm per room: 23.33 | Floor: 4 | Insulated: no
